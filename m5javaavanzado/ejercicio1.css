@@ -1,0 +1,28 @@
+.cuadrado {
+    width: 150px;        
+    height: 150px;          
+    background: blue; 
+    border: 1px solid #000; 
+    justify-content: center;
+    align-items: center;
+  }
+
+  .cuadrado2 {
+    width: 150px;        
+    height: 150px;          
+    background: yellow; 
+    border: 1px solid #000; 
+    justify-content: center;
+    align-items: center;
+  }
+
+  .cuadrado3 {
+    width: 150px;        
+    height: 150px;          
+    background: white; 
+    border: 1px solid #000; 
+    justify-content: center;
+    align-items: center;
+  }
+
+  
