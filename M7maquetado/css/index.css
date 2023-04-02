@@ -1,5 +1,5 @@
 footer {
-    background-color: aquamarine;
+    background-color: grey;
 }
 
 h1 {
@@ -70,6 +70,20 @@ color:white
         font-size: 90px;
 
     }
+
+    .staff {
+        background-color: gray;
+    }
+
+    .mapa iframe {
+        width: 100%;
+        aspect-ratio: 1.2;
+    }
+
+    
+
+    
+
 
 
 
